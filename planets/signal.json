@@ -4,7 +4,7 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "Radio", "name" : "Backer's Sattellite", "AudioClip" : "OW_PR_ProbeInAirSound", "SourceRadius" : 10, "detectionRadius": 200, "identificationRadius" : 100 }
+			{ "Frequency" : "Radio", "name" : "Backer's Satellite", "AudioClip" : "OW_PR_ProbeInAirSound", "SourceRadius" : 10, "detectionRadius": 200, "identificationRadius" : 100 }
 		]
 	}
 }
