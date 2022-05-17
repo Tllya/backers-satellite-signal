@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "Tlya",
+  "author": "Tlya (Idea by deadofnothing)",
   "name": "Backers sattelite signal",
   "uniqueName": "Tlya.Backerssignal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
