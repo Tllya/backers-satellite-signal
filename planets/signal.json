@@ -1,0 +1,10 @@
+{
+	"name" : "BackerSatellite",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "Radio", "name" : "Backer's Sattelite", "AudioClip" : "OW_PR_ProbeInAirSound", "SourceRadius" : 10, "detectionRadius": 200, "identificationRadius" : 100 }
+		]
+	}
+}
